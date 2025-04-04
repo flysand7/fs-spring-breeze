@@ -1,0 +1,21 @@
+{
+  "name": "fs-spring-breeze",
+  "displayName": "flysand's spring breeze",
+  "description": "Cool and refreshing color theme to satisfy your blues and greens cravings.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "flysand's spring breeze",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fs-spring-breeze-color-theme.json"
+      }
+    ]
+  }
+}
