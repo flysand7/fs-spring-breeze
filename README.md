@@ -17,16 +17,16 @@ This theme somewhat supports semantic highlighting.
 
 Typescript (no semantic highlighting):
 
-![/assets/ts.png]
+![Example of Typescript highlighting](/assets/ts.png)
 
 Rust (with semantic highlighting from `rust-analyzer`):
 
-![/assets/rust.png]
+![Example of Rust highlighting](/assets/rust.png)
 
 Odin (no semantic highlighting):
 
-![/assets/odin.png]
+![Example of Odin highlighting](/assets/odin.png)
 
 HTML:
 
-![/assets/html.png]
+![Example of HTML highlighting](/assets/html.png)
