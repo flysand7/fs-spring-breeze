@@ -27,6 +27,7 @@
 			"scope": [
 				"keyword.other",
 				"keyword.control",
+                "keyword.operator.word",
 				"storage.type",
 				"storage.modifier",
 				"entity.name.tag",
