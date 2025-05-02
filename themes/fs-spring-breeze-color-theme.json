@@ -107,6 +107,30 @@
 		},
 
 		// +--------------------------------------------------------------------------------------+
+		// |  Go-specific highlights                                                              +
+		// +--------------------------------------------------------------------------------------+
+        {
+            "name": "[Go] Keywords",
+            "scope": [
+                // Note(flysand): I mean its really sad
+                // that Go syntax for vscode didn't go the standard route.
+                "keyword.package.go",
+                "keyword.function.go",
+                "keyword.type.go",
+                "keyword.struct.go",
+                "keyword.var.go",
+                "keyword.channel.go",
+                "keyword.const.go",
+                "keyword.interface.go",
+                "keyword.map.go"
+
+            ],
+            "settings": {
+				"foreground": "#98e8bb"
+            }
+        },
+
+        // +--------------------------------------------------------------------------------------+
 		// |  Javascript/Typescript-specific highlights                                           +
 		// +--------------------------------------------------------------------------------------+
 		{
