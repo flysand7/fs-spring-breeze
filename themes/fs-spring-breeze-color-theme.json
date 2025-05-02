@@ -28,6 +28,7 @@
 				"keyword.other",
 				"keyword.control",
                 "keyword.operator.word",
+                "keyword.operator.logical",
 				"storage.type",
 				"storage.modifier",
 				"entity.name.tag",
