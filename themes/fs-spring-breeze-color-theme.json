@@ -29,6 +29,8 @@
 				"keyword.control",
                 "keyword.operator.word",
                 "keyword.operator.logical",
+                "keyword.hard",
+                "keyword.soft",
 				"storage.type",
 				"storage.modifier",
 				"entity.name.tag",
@@ -56,6 +58,7 @@
 				"entity.name.type",
 				"entity.name.class",
 				"entity.name.namespace",
+				"entity.name.package",
 			],
 			"settings": {
 				"foreground": "#A491D3",
